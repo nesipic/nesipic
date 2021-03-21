@@ -11,7 +11,7 @@
 
 - 📫 How to reach me 👉 **nesipic@hotmail.com**
 
-- 📄 Know me better 👉 <a href="https://raw.githubusercontent.com/nesipic/nesipic/main/Nediljko_Sipic_CV.pdf">Download my CV </a>
+- 📄 Know me better 👉 <a href="https://github.com/nesipic/nesipic/blob/main/NediljkoSipic2021.pdf">Download my CV </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
