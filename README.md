@@ -3,15 +3,11 @@
 
 - 🔭 I’m currently working on [Project Hire Me](https://github.com/nesipic/Hire-Me-Project)
 
-- 🌱 I’m currently learning **React, Redux**
-
 - My first mobile web application 👉 [https://healthy-forager.herokuapp.com/](https://healthy-forager.herokuapp.com/)
 
 - Airbnb clone made in just few days 👉 [https://boatsboatsboats.herokuapp.com/](https://boatsboatsboats.herokuapp.com/)
 
 - 📫 How to reach me 👉 **nesipic@hotmail.com**
-
-- 📄 Know me better 👉 <a href="https://raw.githubusercontent.com/nesipic/nesipic/main/NediljkoSipic2021.pdf">Download my CV </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
