@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nediljko Sipic</h1>
 <h3 align="center">Junior Full-Stack Developer</h3>
 
-- 🔭 I’m currently working on [Project Hire Me](https://github.com/nesipic/Hire-Me-Project)
-
 - My first mobile web application 👉 [https://healthy-forager.herokuapp.com/](https://healthy-forager.herokuapp.com/)
 
 - Airbnb clone made in just few days 👉 [https://boatsboatsboats.herokuapp.com/](https://boatsboatsboats.herokuapp.com/)
