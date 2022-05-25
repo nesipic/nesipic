@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nediljko Sipic</h1>
+<h1 align="center">Hi 👋, I'm Dominik Sipic</h1>
 <h3 align="center">Junior Full-Stack Developer</h3>
 
 - My first mobile web application 👉 [https://healthy-forager.herokuapp.com/](https://healthy-forager.herokuapp.com/)
